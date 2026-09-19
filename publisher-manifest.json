@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "ad6c7d7ec55c3c2ac982a066",
+  "owner": "c7emb7unx",
+  "repo": "page-ca87432555d2229d5d3fcc62",
+  "title": "Precision",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ca87432555d2229d5d3fcc62",
+      "a": "Precision",
+      "b": "Clash Mi客户端快速下载",
+      "entity": "Precision",
+      "brand": "Precision",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "15fc52f24e36e7b702464c06166f195926c2ecb805c1c66a4b9e47a6c391489f",
+      "content": {
+        "primary_entity": "Precision",
+        "keyword1": "Precision",
+        "keyword2": "Clash Mi客户端快速下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择 Precision 对应客户端，查看适配与订阅导入方式。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "先完成套餐选择与订阅导入，再按客户端文档调整节点。",
+          "AI_CLOSING_TITLE": "开始 Precision 连接",
+          "AI_DESCRIPTION": "，Precision 提供基础版、旗舰版与团队版三档订阅，流量从每月 100GB 到 1000GB，在线设备数覆盖 3 台到 20 台。追求流媒体与游戏加速可选旗舰版，多设备或企业路由需求可选团队版。",
+          "AI_FEATURES_INTRO": "从套餐、设备和订阅周期三个角度整理 Precision 的选择要点。",
+          "AI_FEATURES_TITLE": "选择 Precision 的关键",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 支持 3 台设备，旗舰版 300GB 支持 5 台，团队版 1000GB 支持 20 台。",
+          "AI_FEATURE_TEXT_2": "手机、电脑与路由器可按需选择客户端，订阅信息导入后即可切换节点。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "按用量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备配客户端",
+          "AI_FEATURE_TITLE_3": "按周期定订阅",
+          "AI_GUIDE_INTRO": "三步完成 Precision 订阅配置与节点使用。",
+          "AI_GUIDE_TITLE": "配置流程",
+          "AI_HERO_INTRO": "Precision 面向需要稳定海外访问的用户，提供基础版、旗舰版和团队版三档套餐，分别覆盖轻量浏览、流媒体与游戏加速以及多设备团队场景。按设备选择合适客户端并导入订阅，即可开始使用。",
+          "AI_HERO_SUBTITLE": "按设备与用量选 Precision 套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 到 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 游戏加速线路",
+          "AI_HIGHLIGHT_3": "年付方案降低长期使用成本",
+          "AI_PLANS_INTRO": "基础版适合轻量用户，旗舰版适合流媒体与游戏，团队版面向多设备与企业路由。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量、在线设备数量和流媒体游戏需求，在基础版、旗舰版、团队版中挑选。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端适配要求，按客户端文档准备订阅导入环境。",
+          "AI_STEP_TEXT_3": "将订阅信息导入所选客户端，保存配置后选择节点并测试连接。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "按客户端文档配置",
+          "AI_VISUAL_TITLE": "Precision 灵活订阅",
+          "AI_FAQ_ANSWER_1": "基础版适合两三台设备日常浏览，旗舰版面向流媒体与游戏，团队版支持二十台设备，适合多人共享或小型办公。",
+          "AI_FAQ_ANSWER_2": "订阅配置通常需要客户端支持导入订阅链接，具体方式以所用客户端说明为准，不同系统操作略有差异。",
+          "AI_FAQ_ANSWER_3": "基础版 3 台、旗舰版 5 台、团队版 20 台同时在线；超出后可升级套餐或减少并发设备。",
+          "AI_FAQ_ANSWER_4": "可以，三档套餐均提供按年付价格，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FAQ_ANSWER_5": "先确认最大同时在线设备数和每月流量需求，再结合常用客户端是否支持订阅导入来选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Precision 三档套餐分别适合什么使用场景？",
+          "AI_FAQ_QUESTION_2": "如何导入订阅到常用客户端？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量超出套餐限制会怎样？",
+          "AI_FAQ_QUESTION_4": "按年付是否比按月付更划算？",
+          "AI_FAQ_QUESTION_5": "如何判断自己该选哪一档套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e7ca228286bc51a912d679c2c7b69f41c0a179cfb6bc5508e7c44236fd047a0e",
+    "sitemap.xml": "c98e0e08efb4c032434b0eb6b230c58eab494395f6fe870a0da47ccf5899c633",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "9b5fe5afaeae3f06d55a3a9ea9b37169c66969a28367031703e43eba9586fced"
+}
